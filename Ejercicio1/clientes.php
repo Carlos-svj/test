@@ -8,5 +8,6 @@
 <body>
   <h1>Ahora estas en clientes.php</h1>
   <p>Nombre del cliente: <?php echo $_GET['id']; ?></p>
+	<p>BABABOOOEEIII</p>
 </body>
 </html>
